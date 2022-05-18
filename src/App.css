@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.profile {
+  background-color: #1f1a1a;
+  text-align: center;
+}
+/* h1 {
+  color: #ffffff;
+} */
+
+h2 {
+  color: #fff;
+  /* background-color: #1f1a1a; */
+  padding: 0.8rem;
+}
+
+img {
+  border-radius: 17px;
+  margin: 20px 0;
+}
+
